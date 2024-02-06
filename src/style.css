@@ -4,6 +4,9 @@ body {
     rgb(255, 255, 255) 0%,
     rgb(218, 134, 182) 100.7%
   );
+
+  height: 200%;
+
   font-family: sans-serif;
 }
 h1 {
